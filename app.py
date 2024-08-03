@@ -1,3 +1,5 @@
+pip install streamlit yfinance pandas numpy scikit-learn keras matplotlib arch
+
 import streamlit as st
 import pandas as pd
 import numpy as np
